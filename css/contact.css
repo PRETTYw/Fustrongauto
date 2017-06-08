@@ -1,0 +1,145 @@
+.slide{
+	width: 100%;
+	height: 600px;
+	position: absolute;
+	background: url(../imgs/contact/contact.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+	background-size: 100% 600px;
+}
+.icon{
+	width: 130px;
+	height: 80px;
+	color: #fff;
+	margin-left: 615px;
+	margin-top: 70px;
+}
+.icon img{
+	width: 60px;
+	height: 60px;
+	margin-left: 30px;
+	margin-bottom: 10px;
+}
+.icon p{
+	font-weight: bold;
+}
+.message{
+	width: 200px;
+	height: 40px;
+	margin-left: 575px;
+	margin-top: 30px;
+	color: #fff;
+	border-radius: 5px; 
+	background-color: #5F0E0B;
+}
+.message img{
+	width: 40px;
+	height: 40px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 5px;
+}
+.message p{
+	padding-top: 8px;
+}
+.infor{
+	width: 700px;
+	height: 300px;
+	color: #fff;
+	margin-left: 335px;
+	margin-top: 30px;
+}
+.infor ul{
+	list-style-type: none;
+}
+.infor ul li{
+	width: 300px;
+	height: 37px;
+	float: left;
+	border: 1px solid #fff;
+	border-radius: 10px;
+	text-align: center;
+	padding-top: 8px;
+	margin-left: 25px;
+	margin-bottom: 15px;
+}
+.clear{
+	clear: both;
+}
+.address{
+	width: 625px;
+	height: 37px;
+	border: 1px solid #fff;
+	margin-left: 25px;
+	border-radius: 10px;
+	text-align: center;
+	padding-top: 8px;
+}
+.touch{
+	position: absolute;
+	margin-top: 650px;
+	width: 1000px;
+	height: 250px;
+	margin-left: 180px;
+}
+.touch h3{
+	font-size: 30px;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.touch p{
+	text-align: center;
+	margin-bottom: 5px;
+}
+.website{
+	width: 400px;
+	height: 300px;
+	position: absolute;
+	margin-top: 900px;
+	margin-left: 210px;
+}
+.website p{
+	text-align: right;
+	margin-bottom: 4px;
+}
+.form{
+	width: 400px;
+	height: 300px;
+	position: absolute;
+	margin-top: 900px;
+	margin-left: 750px;
+}
+.form textarea{
+    color: #A9A9A9;
+    padding-top: 12px;
+    padding-left: 20px;
+    word-spacing: 5px;
+}
+.form input{
+	width: 440px;
+	height: 35px;
+	background-color: #fff;
+	border: 1px solid #A9A9A9;
+	font-size: 15px;
+	color: #A9A9A9;
+}
+.footer{
+	position: absolute;
+	margin-top: 1280px;
+	background: #1E2327;
+	width: 100%;
+	height: 225px;
+}
+.footer img{
+	width: 165px;
+	height: 35px;
+	margin-left: 560px;
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+.footer p{
+	color: #fff;
+	margin-left: 150px;
+	margin-top: 5px;
+}
